@@ -1,0 +1,33 @@
+title: "Idea: {{ THE IDEA NAME }} "
+labels: ["Brainstorming Idea"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: 🥅 The Goal
+      placeholder: |
+        The goal of the brainstorming session?
+    validations:
+      required: true   
+  - type: textarea
+    id: pain
+    attributes:
+      label: ❌ The Pain
+      placeholder: |
+        The pain of the problem we are trying to solve
+    validations:
+      required: true
+  - type: textarea
+    id: ideas
+    attributes:
+      label: 💡 Ideas
+      placeholder: |
+        Any ideas that we have already thought of or which need expanding upon
+    validations:
+      required: true
+  - type: textarea
+    id: team
+    attributes:
+      label: 🧑‍🤝‍🧑 Investigation team
+      placeholder: |
+        The people brainstorming the idea
