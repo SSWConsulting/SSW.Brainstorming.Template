@@ -1,7 +1,7 @@
-# Sydney Brainstorming 2023
+# {{ CITY }} Brainstorming {{ YEAR }}
 
 ## 🚫 **DO NOT** commit anything to this repository
 
 ## ✅ **DO** collaborate in the discussions below
 
-https://github.com/SSWConsulting/Sydney-Brainstorming-2023/discussions
+https://github.com/SSWConsulting/{{ CITY }}-Brainstorming-{{ YEAR }}/discussions
