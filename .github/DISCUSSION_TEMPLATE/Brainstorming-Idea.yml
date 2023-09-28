@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: ideas
     attributes:
-      label: 💡 Ideas
+      label: 💡 Potential Solutions (or thoughts)
       placeholder: |
         Any ideas that we have already thought of or which need expanding upon
     validations:
@@ -31,3 +31,11 @@ body:
       label: 🧑‍🤝‍🧑 Investigation team
       placeholder: |
         The people brainstorming the idea
+  - type: textarea
+    id: checked-by
+    attributes:
+      label: 🔎 Checked by
+      placeholder: |
+        @ mention the person who checked your idea
+    validations:
+      required: true
