@@ -26,12 +26,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: team
-    attributes:
-      label: 🧑‍🤝‍🧑 Investigation team
-      placeholder: |
-        The people brainstorming the idea
-  - type: textarea
     id: checked-by
     attributes:
       label: 🔎 Checked by
